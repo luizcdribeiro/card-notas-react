@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/luizcdribeiro/card-notas-react/static/css/main.fe64e1dc.chunk.css",
+    "main.js": "/luizcdribeiro/card-notas-react/static/js/main.9ca2e001.chunk.js",
+    "main.js.map": "/luizcdribeiro/card-notas-react/static/js/main.9ca2e001.chunk.js.map",
+    "runtime-main.js": "/luizcdribeiro/card-notas-react/static/js/runtime-main.e1a16dc5.js",
+    "runtime-main.js.map": "/luizcdribeiro/card-notas-react/static/js/runtime-main.e1a16dc5.js.map",
+    "static/js/2.2125aeaf.chunk.js": "/luizcdribeiro/card-notas-react/static/js/2.2125aeaf.chunk.js",
+    "static/js/2.2125aeaf.chunk.js.map": "/luizcdribeiro/card-notas-react/static/js/2.2125aeaf.chunk.js.map",
+    "index.html": "/luizcdribeiro/card-notas-react/index.html",
+    "static/css/main.fe64e1dc.chunk.css.map": "/luizcdribeiro/card-notas-react/static/css/main.fe64e1dc.chunk.css.map",
+    "static/js/2.2125aeaf.chunk.js.LICENSE.txt": "/luizcdribeiro/card-notas-react/static/js/2.2125aeaf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1a16dc5.js",
+    "static/js/2.2125aeaf.chunk.js",
+    "static/css/main.fe64e1dc.chunk.css",
+    "static/js/main.9ca2e001.chunk.js"
+  ]
+}
